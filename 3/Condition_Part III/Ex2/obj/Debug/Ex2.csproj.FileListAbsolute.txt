@@ -1,0 +1,7 @@
+C:\Users\Moi\Desktop\C# Tuto\3\Condition_Part III\Ex2\bin\Debug\Ex2.exe.config
+C:\Users\Moi\Desktop\C# Tuto\3\Condition_Part III\Ex2\bin\Debug\Ex2.exe
+C:\Users\Moi\Desktop\C# Tuto\3\Condition_Part III\Ex2\bin\Debug\Ex2.pdb
+C:\Users\Moi\Desktop\C# Tuto\3\Condition_Part III\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\C# Tuto\3\Condition_Part III\Ex2\obj\Debug\Ex2.exe
+C:\Users\Moi\Desktop\C# Tuto\3\Condition_Part III\Ex2\obj\Debug\Ex2.pdb
+C:\Users\Moi\Desktop\C# Tuto\3\Condition_Part III\Ex2\obj\Debug\Ex2.csprojAssemblyReference.cache

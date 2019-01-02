@@ -1,0 +1,7 @@
+C:\Users\Moi\Desktop\C# Tuto\4\Exercice 1\Exercice8\bin\Debug\Exercice8.exe.config
+C:\Users\Moi\Desktop\C# Tuto\4\Exercice 1\Exercice8\bin\Debug\Exercice8.exe
+C:\Users\Moi\Desktop\C# Tuto\4\Exercice 1\Exercice8\bin\Debug\Exercice8.pdb
+C:\Users\Moi\Desktop\C# Tuto\4\Exercice 1\Exercice8\obj\Debug\Exercice8.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\C# Tuto\4\Exercice 1\Exercice8\obj\Debug\Exercice8.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\C# Tuto\4\Exercice 1\Exercice8\obj\Debug\Exercice8.exe
+C:\Users\Moi\Desktop\C# Tuto\4\Exercice 1\Exercice8\obj\Debug\Exercice8.pdb

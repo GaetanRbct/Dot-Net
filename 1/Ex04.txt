@@ -1,0 +1,3 @@
+﻿1>------ Début de la génération : Projet : ConsoleApp8, Configuration : Debug Any CPU ------
+1>  ConsoleApp8 -> C:\Users\Moi\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+========== Génération : 1 a réussi, 0 a échoué, 0 mis à jour, 0 a été ignoré ==========

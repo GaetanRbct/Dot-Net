@@ -1,0 +1,6 @@
+C:\Users\Moi\Desktop\C# Tuto\4\Exercice 1\Exercice2\bin\Debug\Exercice2.exe.config
+C:\Users\Moi\Desktop\C# Tuto\4\Exercice 1\Exercice2\bin\Debug\Exercice2.exe
+C:\Users\Moi\Desktop\C# Tuto\4\Exercice 1\Exercice2\bin\Debug\Exercice2.pdb
+C:\Users\Moi\Desktop\C# Tuto\4\Exercice 1\Exercice2\obj\Debug\Exercice2.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\C# Tuto\4\Exercice 1\Exercice2\obj\Debug\Exercice2.exe
+C:\Users\Moi\Desktop\C# Tuto\4\Exercice 1\Exercice2\obj\Debug\Exercice2.pdb

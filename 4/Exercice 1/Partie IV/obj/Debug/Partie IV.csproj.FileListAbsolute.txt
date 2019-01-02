@@ -1,0 +1,7 @@
+C:\Users\Moi\Desktop\C# Tuto\4\Exercice 1\Partie IV\bin\Debug\Partie IV.exe.config
+C:\Users\Moi\Desktop\C# Tuto\4\Exercice 1\Partie IV\bin\Debug\Partie IV.exe
+C:\Users\Moi\Desktop\C# Tuto\4\Exercice 1\Partie IV\bin\Debug\Partie IV.pdb
+C:\Users\Moi\Desktop\C# Tuto\4\Exercice 1\Partie IV\obj\Debug\Partie IV.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\C# Tuto\4\Exercice 1\Partie IV\obj\Debug\Partie IV.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\C# Tuto\4\Exercice 1\Partie IV\obj\Debug\Partie IV.exe
+C:\Users\Moi\Desktop\C# Tuto\4\Exercice 1\Partie IV\obj\Debug\Partie IV.pdb
